@@ -1,0 +1,6 @@
+C:\Users\hemanthkumar6\Documents\Visual Studio 2015\Projects\My Learning\FactorialDigitSum_Recursive\FactorialDigitSum_Recursive\bin\Debug\FactorialDigitSum_Recursive.exe.config
+C:\Users\hemanthkumar6\Documents\Visual Studio 2015\Projects\My Learning\FactorialDigitSum_Recursive\FactorialDigitSum_Recursive\bin\Debug\FactorialDigitSum_Recursive.exe
+C:\Users\hemanthkumar6\Documents\Visual Studio 2015\Projects\My Learning\FactorialDigitSum_Recursive\FactorialDigitSum_Recursive\bin\Debug\FactorialDigitSum_Recursive.pdb
+C:\Users\hemanthkumar6\Documents\Visual Studio 2015\Projects\My Learning\FactorialDigitSum_Recursive\FactorialDigitSum_Recursive\obj\Debug\FactorialDigitSum_Recursive.csprojResolveAssemblyReference.cache
+C:\Users\hemanthkumar6\Documents\Visual Studio 2015\Projects\My Learning\FactorialDigitSum_Recursive\FactorialDigitSum_Recursive\obj\Debug\FactorialDigitSum_Recursive.exe
+C:\Users\hemanthkumar6\Documents\Visual Studio 2015\Projects\My Learning\FactorialDigitSum_Recursive\FactorialDigitSum_Recursive\obj\Debug\FactorialDigitSum_Recursive.pdb

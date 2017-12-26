@@ -1,0 +1,6 @@
+C:\Users\hemanthkumar6\Documents\Visual Studio 2015\Projects\My Learning\RiyaandStrings\RiyaandStrings\bin\Debug\RiyaandStrings.exe.config
+C:\Users\hemanthkumar6\Documents\Visual Studio 2015\Projects\My Learning\RiyaandStrings\RiyaandStrings\bin\Debug\RiyaandStrings.exe
+C:\Users\hemanthkumar6\Documents\Visual Studio 2015\Projects\My Learning\RiyaandStrings\RiyaandStrings\bin\Debug\RiyaandStrings.pdb
+C:\Users\hemanthkumar6\Documents\Visual Studio 2015\Projects\My Learning\RiyaandStrings\RiyaandStrings\obj\Debug\RiyaandStrings.csprojResolveAssemblyReference.cache
+C:\Users\hemanthkumar6\Documents\Visual Studio 2015\Projects\My Learning\RiyaandStrings\RiyaandStrings\obj\Debug\RiyaandStrings.exe
+C:\Users\hemanthkumar6\Documents\Visual Studio 2015\Projects\My Learning\RiyaandStrings\RiyaandStrings\obj\Debug\RiyaandStrings.pdb

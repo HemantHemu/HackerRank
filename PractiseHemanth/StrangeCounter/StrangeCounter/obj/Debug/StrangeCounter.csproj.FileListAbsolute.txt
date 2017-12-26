@@ -1,0 +1,6 @@
+C:\Users\hemanthkumar6\Documents\Visual Studio 2015\Projects\HackerRank\StrangeCounter\StrangeCounter\bin\Debug\StrangeCounter.exe.config
+C:\Users\hemanthkumar6\Documents\Visual Studio 2015\Projects\HackerRank\StrangeCounter\StrangeCounter\bin\Debug\StrangeCounter.exe
+C:\Users\hemanthkumar6\Documents\Visual Studio 2015\Projects\HackerRank\StrangeCounter\StrangeCounter\bin\Debug\StrangeCounter.pdb
+C:\Users\hemanthkumar6\Documents\Visual Studio 2015\Projects\HackerRank\StrangeCounter\StrangeCounter\obj\Debug\StrangeCounter.csprojResolveAssemblyReference.cache
+C:\Users\hemanthkumar6\Documents\Visual Studio 2015\Projects\HackerRank\StrangeCounter\StrangeCounter\obj\Debug\StrangeCounter.exe
+C:\Users\hemanthkumar6\Documents\Visual Studio 2015\Projects\HackerRank\StrangeCounter\StrangeCounter\obj\Debug\StrangeCounter.pdb

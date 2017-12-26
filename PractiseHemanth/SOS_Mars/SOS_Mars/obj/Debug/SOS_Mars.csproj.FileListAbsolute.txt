@@ -1,0 +1,6 @@
+C:\Users\hemanthkumar6\Documents\Visual Studio 2015\Projects\HackerRank\SOS_Mars\SOS_Mars\bin\Debug\SOS_Mars.exe.config
+C:\Users\hemanthkumar6\Documents\Visual Studio 2015\Projects\HackerRank\SOS_Mars\SOS_Mars\bin\Debug\SOS_Mars.exe
+C:\Users\hemanthkumar6\Documents\Visual Studio 2015\Projects\HackerRank\SOS_Mars\SOS_Mars\bin\Debug\SOS_Mars.pdb
+C:\Users\hemanthkumar6\Documents\Visual Studio 2015\Projects\HackerRank\SOS_Mars\SOS_Mars\obj\Debug\SOS_Mars.csprojResolveAssemblyReference.cache
+C:\Users\hemanthkumar6\Documents\Visual Studio 2015\Projects\HackerRank\SOS_Mars\SOS_Mars\obj\Debug\SOS_Mars.exe
+C:\Users\hemanthkumar6\Documents\Visual Studio 2015\Projects\HackerRank\SOS_Mars\SOS_Mars\obj\Debug\SOS_Mars.pdb

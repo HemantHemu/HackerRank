@@ -1,0 +1,6 @@
+C:\Users\hemanthkumar6\Documents\Visual Studio 2015\Projects\My Learning\SquareFreeNumbers\SquareFreeNumbers\bin\Debug\SquareFreeNumbers.exe.config
+C:\Users\hemanthkumar6\Documents\Visual Studio 2015\Projects\My Learning\SquareFreeNumbers\SquareFreeNumbers\bin\Debug\SquareFreeNumbers.exe
+C:\Users\hemanthkumar6\Documents\Visual Studio 2015\Projects\My Learning\SquareFreeNumbers\SquareFreeNumbers\bin\Debug\SquareFreeNumbers.pdb
+C:\Users\hemanthkumar6\Documents\Visual Studio 2015\Projects\My Learning\SquareFreeNumbers\SquareFreeNumbers\obj\Debug\SquareFreeNumbers.csprojResolveAssemblyReference.cache
+C:\Users\hemanthkumar6\Documents\Visual Studio 2015\Projects\My Learning\SquareFreeNumbers\SquareFreeNumbers\obj\Debug\SquareFreeNumbers.exe
+C:\Users\hemanthkumar6\Documents\Visual Studio 2015\Projects\My Learning\SquareFreeNumbers\SquareFreeNumbers\obj\Debug\SquareFreeNumbers.pdb

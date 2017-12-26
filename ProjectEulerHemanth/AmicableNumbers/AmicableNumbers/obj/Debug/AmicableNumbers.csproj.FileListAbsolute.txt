@@ -1,0 +1,6 @@
+C:\Users\hemanthkumar6\Documents\Visual Studio 2015\Projects\My Learning\AmicableNumbers\AmicableNumbers\bin\Debug\AmicableNumbers.exe.config
+C:\Users\hemanthkumar6\Documents\Visual Studio 2015\Projects\My Learning\AmicableNumbers\AmicableNumbers\bin\Debug\AmicableNumbers.exe
+C:\Users\hemanthkumar6\Documents\Visual Studio 2015\Projects\My Learning\AmicableNumbers\AmicableNumbers\bin\Debug\AmicableNumbers.pdb
+C:\Users\hemanthkumar6\Documents\Visual Studio 2015\Projects\My Learning\AmicableNumbers\AmicableNumbers\obj\Debug\AmicableNumbers.csprojResolveAssemblyReference.cache
+C:\Users\hemanthkumar6\Documents\Visual Studio 2015\Projects\My Learning\AmicableNumbers\AmicableNumbers\obj\Debug\AmicableNumbers.exe
+C:\Users\hemanthkumar6\Documents\Visual Studio 2015\Projects\My Learning\AmicableNumbers\AmicableNumbers\obj\Debug\AmicableNumbers.pdb

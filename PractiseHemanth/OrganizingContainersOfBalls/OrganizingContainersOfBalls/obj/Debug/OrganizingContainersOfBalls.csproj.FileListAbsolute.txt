@@ -1,0 +1,5 @@
+C:\Users\hemanthkumar6\Documents\Visual Studio 2015\Projects\HackerRank\OrganizingContainersOfBalls\OrganizingContainersOfBalls\bin\Debug\OrganizingContainersOfBalls.exe.config
+C:\Users\hemanthkumar6\Documents\Visual Studio 2015\Projects\HackerRank\OrganizingContainersOfBalls\OrganizingContainersOfBalls\bin\Debug\OrganizingContainersOfBalls.exe
+C:\Users\hemanthkumar6\Documents\Visual Studio 2015\Projects\HackerRank\OrganizingContainersOfBalls\OrganizingContainersOfBalls\bin\Debug\OrganizingContainersOfBalls.pdb
+C:\Users\hemanthkumar6\Documents\Visual Studio 2015\Projects\HackerRank\OrganizingContainersOfBalls\OrganizingContainersOfBalls\obj\Debug\OrganizingContainersOfBalls.exe
+C:\Users\hemanthkumar6\Documents\Visual Studio 2015\Projects\HackerRank\OrganizingContainersOfBalls\OrganizingContainersOfBalls\obj\Debug\OrganizingContainersOfBalls.pdb

@@ -1,0 +1,6 @@
+C:\Users\hemanthkumar6\Documents\Visual Studio 2015\Projects\My Learning\TwoBitSets\TwoBitSets\bin\Debug\TwoBitSets.exe.config
+C:\Users\hemanthkumar6\Documents\Visual Studio 2015\Projects\My Learning\TwoBitSets\TwoBitSets\bin\Debug\TwoBitSets.exe
+C:\Users\hemanthkumar6\Documents\Visual Studio 2015\Projects\My Learning\TwoBitSets\TwoBitSets\bin\Debug\TwoBitSets.pdb
+C:\Users\hemanthkumar6\Documents\Visual Studio 2015\Projects\My Learning\TwoBitSets\TwoBitSets\obj\Debug\TwoBitSets.csprojResolveAssemblyReference.cache
+C:\Users\hemanthkumar6\Documents\Visual Studio 2015\Projects\My Learning\TwoBitSets\TwoBitSets\obj\Debug\TwoBitSets.exe
+C:\Users\hemanthkumar6\Documents\Visual Studio 2015\Projects\My Learning\TwoBitSets\TwoBitSets\obj\Debug\TwoBitSets.pdb

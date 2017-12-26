@@ -1,0 +1,6 @@
+C:\Users\hemanthkumar6\Documents\Visual Studio 2015\Projects\My Learning\PowerfulDigitCounts\PowerfulDigitCounts\bin\Debug\PowerfulDigitCounts.exe.config
+C:\Users\hemanthkumar6\Documents\Visual Studio 2015\Projects\My Learning\PowerfulDigitCounts\PowerfulDigitCounts\bin\Debug\PowerfulDigitCounts.exe
+C:\Users\hemanthkumar6\Documents\Visual Studio 2015\Projects\My Learning\PowerfulDigitCounts\PowerfulDigitCounts\bin\Debug\PowerfulDigitCounts.pdb
+C:\Users\hemanthkumar6\Documents\Visual Studio 2015\Projects\My Learning\PowerfulDigitCounts\PowerfulDigitCounts\obj\Debug\PowerfulDigitCounts.csprojResolveAssemblyReference.cache
+C:\Users\hemanthkumar6\Documents\Visual Studio 2015\Projects\My Learning\PowerfulDigitCounts\PowerfulDigitCounts\obj\Debug\PowerfulDigitCounts.exe
+C:\Users\hemanthkumar6\Documents\Visual Studio 2015\Projects\My Learning\PowerfulDigitCounts\PowerfulDigitCounts\obj\Debug\PowerfulDigitCounts.pdb

@@ -1,0 +1,6 @@
+C:\Users\hemanthkumar6\Documents\Visual Studio 2015\Projects\My Learning\1001st_Prime\1001st_Prime\bin\Debug\1001st_Prime.exe.config
+C:\Users\hemanthkumar6\Documents\Visual Studio 2015\Projects\My Learning\1001st_Prime\1001st_Prime\bin\Debug\1001st_Prime.exe
+C:\Users\hemanthkumar6\Documents\Visual Studio 2015\Projects\My Learning\1001st_Prime\1001st_Prime\bin\Debug\1001st_Prime.pdb
+C:\Users\hemanthkumar6\Documents\Visual Studio 2015\Projects\My Learning\1001st_Prime\1001st_Prime\obj\Debug\1001st_Prime.csprojResolveAssemblyReference.cache
+C:\Users\hemanthkumar6\Documents\Visual Studio 2015\Projects\My Learning\1001st_Prime\1001st_Prime\obj\Debug\1001st_Prime.exe
+C:\Users\hemanthkumar6\Documents\Visual Studio 2015\Projects\My Learning\1001st_Prime\1001st_Prime\obj\Debug\1001st_Prime.pdb

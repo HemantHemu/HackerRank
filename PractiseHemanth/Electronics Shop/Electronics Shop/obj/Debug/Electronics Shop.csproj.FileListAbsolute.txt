@@ -1,0 +1,6 @@
+C:\Users\hemanthkumar6\Documents\Visual Studio 2015\Projects\My Learning\Electronics Shop\Electronics Shop\bin\Debug\Electronics Shop.exe.config
+C:\Users\hemanthkumar6\Documents\Visual Studio 2015\Projects\My Learning\Electronics Shop\Electronics Shop\bin\Debug\Electronics Shop.exe
+C:\Users\hemanthkumar6\Documents\Visual Studio 2015\Projects\My Learning\Electronics Shop\Electronics Shop\bin\Debug\Electronics Shop.pdb
+C:\Users\hemanthkumar6\Documents\Visual Studio 2015\Projects\My Learning\Electronics Shop\Electronics Shop\obj\Debug\Electronics Shop.csprojResolveAssemblyReference.cache
+C:\Users\hemanthkumar6\Documents\Visual Studio 2015\Projects\My Learning\Electronics Shop\Electronics Shop\obj\Debug\Electronics Shop.exe
+C:\Users\hemanthkumar6\Documents\Visual Studio 2015\Projects\My Learning\Electronics Shop\Electronics Shop\obj\Debug\Electronics Shop.pdb

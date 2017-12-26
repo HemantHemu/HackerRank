@@ -1,0 +1,6 @@
+C:\Users\hemanthkumar6\Documents\Visual Studio 2015\Projects\My Learning\longestCollatZseQuence\longestCollatZseQuence\bin\Debug\longestCollatZseQuence.exe.config
+C:\Users\hemanthkumar6\Documents\Visual Studio 2015\Projects\My Learning\longestCollatZseQuence\longestCollatZseQuence\bin\Debug\longestCollatZseQuence.exe
+C:\Users\hemanthkumar6\Documents\Visual Studio 2015\Projects\My Learning\longestCollatZseQuence\longestCollatZseQuence\bin\Debug\longestCollatZseQuence.pdb
+C:\Users\hemanthkumar6\Documents\Visual Studio 2015\Projects\My Learning\longestCollatZseQuence\longestCollatZseQuence\obj\Debug\longestCollatZseQuence.csprojResolveAssemblyReference.cache
+C:\Users\hemanthkumar6\Documents\Visual Studio 2015\Projects\My Learning\longestCollatZseQuence\longestCollatZseQuence\obj\Debug\longestCollatZseQuence.exe
+C:\Users\hemanthkumar6\Documents\Visual Studio 2015\Projects\My Learning\longestCollatZseQuence\longestCollatZseQuence\obj\Debug\longestCollatZseQuence.pdb

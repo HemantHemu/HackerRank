@@ -1,0 +1,6 @@
+C:\Users\hemanthkumar6\Documents\Visual Studio 2015\Projects\My Learning\SimpleTestEditor\SimpleTestEditor\bin\Debug\SimpleTestEditor.exe.config
+C:\Users\hemanthkumar6\Documents\Visual Studio 2015\Projects\My Learning\SimpleTestEditor\SimpleTestEditor\bin\Debug\SimpleTestEditor.exe
+C:\Users\hemanthkumar6\Documents\Visual Studio 2015\Projects\My Learning\SimpleTestEditor\SimpleTestEditor\bin\Debug\SimpleTestEditor.pdb
+C:\Users\hemanthkumar6\Documents\Visual Studio 2015\Projects\My Learning\SimpleTestEditor\SimpleTestEditor\obj\Debug\SimpleTestEditor.csprojResolveAssemblyReference.cache
+C:\Users\hemanthkumar6\Documents\Visual Studio 2015\Projects\My Learning\SimpleTestEditor\SimpleTestEditor\obj\Debug\SimpleTestEditor.exe
+C:\Users\hemanthkumar6\Documents\Visual Studio 2015\Projects\My Learning\SimpleTestEditor\SimpleTestEditor\obj\Debug\SimpleTestEditor.pdb

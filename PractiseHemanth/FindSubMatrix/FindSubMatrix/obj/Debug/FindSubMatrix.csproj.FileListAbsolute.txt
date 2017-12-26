@@ -1,0 +1,6 @@
+C:\Users\hemanthkumar6\Documents\Visual Studio 2015\Projects\HackerRank\FindSubMatrix\FindSubMatrix\bin\Debug\FindSubMatrix.exe.config
+C:\Users\hemanthkumar6\Documents\Visual Studio 2015\Projects\HackerRank\FindSubMatrix\FindSubMatrix\bin\Debug\FindSubMatrix.exe
+C:\Users\hemanthkumar6\Documents\Visual Studio 2015\Projects\HackerRank\FindSubMatrix\FindSubMatrix\bin\Debug\FindSubMatrix.pdb
+C:\Users\hemanthkumar6\Documents\Visual Studio 2015\Projects\HackerRank\FindSubMatrix\FindSubMatrix\obj\Debug\FindSubMatrix.csprojResolveAssemblyReference.cache
+C:\Users\hemanthkumar6\Documents\Visual Studio 2015\Projects\HackerRank\FindSubMatrix\FindSubMatrix\obj\Debug\FindSubMatrix.exe
+C:\Users\hemanthkumar6\Documents\Visual Studio 2015\Projects\HackerRank\FindSubMatrix\FindSubMatrix\obj\Debug\FindSubMatrix.pdb

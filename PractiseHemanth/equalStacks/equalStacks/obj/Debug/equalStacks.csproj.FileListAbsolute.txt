@@ -1,0 +1,6 @@
+C:\Users\hemanthkumar6\Documents\Visual Studio 2015\Projects\My Learning\equalStacks\equalStacks\bin\Debug\equalStacks.exe.config
+C:\Users\hemanthkumar6\Documents\Visual Studio 2015\Projects\My Learning\equalStacks\equalStacks\bin\Debug\equalStacks.exe
+C:\Users\hemanthkumar6\Documents\Visual Studio 2015\Projects\My Learning\equalStacks\equalStacks\bin\Debug\equalStacks.pdb
+C:\Users\hemanthkumar6\Documents\Visual Studio 2015\Projects\My Learning\equalStacks\equalStacks\obj\Debug\equalStacks.csprojResolveAssemblyReference.cache
+C:\Users\hemanthkumar6\Documents\Visual Studio 2015\Projects\My Learning\equalStacks\equalStacks\obj\Debug\equalStacks.exe
+C:\Users\hemanthkumar6\Documents\Visual Studio 2015\Projects\My Learning\equalStacks\equalStacks\obj\Debug\equalStacks.pdb

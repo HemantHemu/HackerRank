@@ -1,0 +1,6 @@
+C:\Users\hemanthkumar6\Documents\Visual Studio 2015\Projects\My Learning\TruncatablePrimes\TruncatablePrimes\bin\Debug\TruncatablePrimes.exe.config
+C:\Users\hemanthkumar6\Documents\Visual Studio 2015\Projects\My Learning\TruncatablePrimes\TruncatablePrimes\bin\Debug\TruncatablePrimes.exe
+C:\Users\hemanthkumar6\Documents\Visual Studio 2015\Projects\My Learning\TruncatablePrimes\TruncatablePrimes\bin\Debug\TruncatablePrimes.pdb
+C:\Users\hemanthkumar6\Documents\Visual Studio 2015\Projects\My Learning\TruncatablePrimes\TruncatablePrimes\obj\Debug\TruncatablePrimes.exe
+C:\Users\hemanthkumar6\Documents\Visual Studio 2015\Projects\My Learning\TruncatablePrimes\TruncatablePrimes\obj\Debug\TruncatablePrimes.pdb
+C:\Users\hemanthkumar6\Documents\Visual Studio 2015\Projects\My Learning\TruncatablePrimes\TruncatablePrimes\obj\Debug\TruncatablePrimes.csprojResolveAssemblyReference.cache

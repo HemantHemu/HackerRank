@@ -1,0 +1,6 @@
+C:\Users\hemanthkumar6\Documents\Visual Studio 2015\Projects\HackerRank\MakingAnagrams\MakingAnagrams\bin\Debug\MakingAnagrams.exe.config
+C:\Users\hemanthkumar6\Documents\Visual Studio 2015\Projects\HackerRank\MakingAnagrams\MakingAnagrams\bin\Debug\MakingAnagrams.exe
+C:\Users\hemanthkumar6\Documents\Visual Studio 2015\Projects\HackerRank\MakingAnagrams\MakingAnagrams\bin\Debug\MakingAnagrams.pdb
+C:\Users\hemanthkumar6\Documents\Visual Studio 2015\Projects\HackerRank\MakingAnagrams\MakingAnagrams\obj\Debug\MakingAnagrams.csprojResolveAssemblyReference.cache
+C:\Users\hemanthkumar6\Documents\Visual Studio 2015\Projects\HackerRank\MakingAnagrams\MakingAnagrams\obj\Debug\MakingAnagrams.exe
+C:\Users\hemanthkumar6\Documents\Visual Studio 2015\Projects\HackerRank\MakingAnagrams\MakingAnagrams\obj\Debug\MakingAnagrams.pdb
