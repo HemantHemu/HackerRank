@@ -27,7 +27,7 @@ namespace ProjectEuler
             //NobleArray.RabindranathTagore();
             //LongestCollatzSequence.IndianSequence(); // not completed
             //PowerDigitSum.Astrology();
-            ArrangingDominos.Gladiator();
+            //ArrangingDominos.Gladiator(); --thought of only one tile, there are many combinations possible
         }
     }
 }
